@@ -1,4 +1,6 @@
 
+## [Chapter00](/Chapter00.ipynb)
+
 ## [Classifier](/Classifier.ipynb)
 
 ## Arithmetic Analysis
